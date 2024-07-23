@@ -1,0 +1,16 @@
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\bin\Debug\net8.0-windows\HashAndSalt FormApp.exe
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\bin\Debug\net8.0-windows\HashAndSalt FormApp.deps.json
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\bin\Debug\net8.0-windows\HashAndSalt FormApp.runtimeconfig.json
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\bin\Debug\net8.0-windows\HashAndSalt FormApp.dll
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\bin\Debug\net8.0-windows\HashAndSalt FormApp.pdb
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\HashAndSalt_FormApp.Form1.resources
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\HashAndSalt FormApp.csproj.GenerateResource.cache
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\HashAndSalt FormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\HashAndSalt FormApp.AssemblyInfoInputs.cache
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\HashAndSalt FormApp.AssemblyInfo.cs
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\HashAndSalt FormApp.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\HashAndSalt FormApp.dll
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\refint\HashAndSalt FormApp.dll
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\HashAndSalt FormApp.pdb
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\HashAndSalt FormApp.genruntimeconfig.cache
+C:\Users\batuh\source\repos\HashAndSalt FormApp\HashAndSalt FormApp\obj\Debug\net8.0-windows\ref\HashAndSalt FormApp.dll
